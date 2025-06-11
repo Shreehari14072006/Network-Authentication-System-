@@ -5,7 +5,7 @@ By tappping "open in colab" anyone can run this code.
 
 ## View the Code
 
-To view the code, open the second file in the list named:
+To view the code, open the "SECOND FILE" in the list named:
 
 **PROJECT_NETWORK_AUTHENTICATION_SYSTEM.ipynb**
 
