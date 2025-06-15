@@ -9,7 +9,7 @@ To view the code, open the "SECOND FILE" in the list named:
 
 **PROJECT_NETWORK_AUTHENTICATION_SYSTEM.ipynb**
 
-Tap "open in browser".
+Tap "open in browser"
 
 This file contains the full implementation of the project. You can also run it directly in Google Colab.
 
